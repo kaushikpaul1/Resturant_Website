@@ -114,7 +114,7 @@
         position: fixed;
         top: 0;
         width: 100%;
-        right: -100%;
+        right: 0;
         bottom: 0;
         background-color: rgb(252, 231, 216);
     }
