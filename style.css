@@ -573,24 +573,24 @@
         width: 80%;
         margin-bottom: 20px;
     }
-    .main_slide4{
+
+    .main_slide4 {
         margin-top: 150px;
 
     }
-    .main_slide4 .chef-feed{
+
+    .main_slide4 .chef-feed {
         flex: 1;
     }
-    .main_slide4 .chef{
+
+    .main_slide4 .chef {
         flex: 1;
         text-align: center;
         margin-bottom: 40px;
     }
-    .main_slide4 .chef img{
+
+    .main_slide4 .chef img {
         width: 80vw;
-    }
-    .main_slide4 .chef-vic div p{
-        display: none;
-        
     }
 
 
@@ -656,7 +656,8 @@
     .main_slide3 .dsgn {
         display: none;
     }
-    .main_slide4 .chef-vic div p{
+
+    .main_slide4 .chef-vic div p {
         display: none;
         /* font-size: 0;
         color: blue; */
