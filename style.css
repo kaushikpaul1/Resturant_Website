@@ -588,6 +588,11 @@
     .main_slide4 .chef img{
         width: 80vw;
     }
+    .main_slide4 .chef-vic div p{
+        display: none;
+        
+    }
+
 
 
 }
